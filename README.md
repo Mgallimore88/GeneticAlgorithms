@@ -2,6 +2,9 @@
 
 My first python project - that's why the code is a little messy and variable names aren't in python format.
 
+to run:
+python3 genetic.py 
+
 Uses inheritance, selection and random mutation to guess a string inputted to the console by the user. 
 Look in genetic.py to see parameters such as target string, number of parents per generation, 
 number of children, mutation rate.
