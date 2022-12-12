@@ -1,10 +1,10 @@
 # GeneticAlgorithms
 
-In this project I created a string guessing algorithm. My inspiration for the project came from a strong interest in evolution by natural selection, experience using genetic algorithms in MATLAB at university. I wanted to make a project to teach me Python, whilst exploring an area of computer science of particular interest to me. 
+This string guessing algorith was my first python project. My inspiration for the project came from a strong interest in evolution by natural selection, experience using genetic algorithms in MATLAB at university. I wanted to make a project to teach me Python, whilst exploring an area of computer science of particular interest to me. 
 
 I replicated the project shown in this video series using . https://www.youtube.com/watch?v=9zfeTw-uFCw&list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV&index=1
 
-This was my very first python project. I used the techniques and knowledge known to me at the time, mostly  involving linked lists and strings, and wrote all the logic from scratch including the bubble sort algorithm. Some of the naming conventions are confusing as I wasn't aware at the time of the importance of well named variables in Python. I'd like to re-vistit this and change some variable names and get it all PEP8, but haven't yet. 
+I used the techniques and knowledge known to me at the time, mostly  involving linked lists and strings, and wrote all the logic from scratch including the bubble sort algorithm. Some of the naming conventions are confusing as I wasn't aware at the time of the importance of well named variables in Python. I'd like to re-visit this and change some variable names and get it all PEP8, but haven't yet as I've been occupied with other projects. 
 
 Briefly, a generation of models is randomly populated with guesses, then the guesses are evaluated, and the best guesses are allowed to 
 spawn the next generations. In this way after many generations, the model improves and hopefully converges on an optimal result. 
